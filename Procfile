@@ -1,1 +1,2 @@
-web: flask db upgrade; gunicorn blog:app
+web: flask db upgrade; flask translate compile; gunicorn blog:app
+worker: rq worker -u $REDIS_URL blog-tasks
