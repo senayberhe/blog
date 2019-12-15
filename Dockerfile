@@ -1,4 +1,4 @@
-FROM python:3.6-alpine
+FROM python:3.7-slim
 
 RUN adduser -D blog
 
@@ -11,10 +11,10 @@ RUN venv/bin/pip install gunicorn pymysql
 
 COPY app app
 COPY migrations migrations
-COPY microblog.py config.py boot.sh ./
+COPY blog.py config.py boot.sh ./
 RUN chmod a+x boot.sh
 
-ENV FLASK_APP microblog.py
+ENV FLASK_APP blog.py
 
 RUN chown -R blog:blog ./
 USER blog
