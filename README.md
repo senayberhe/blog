@@ -6,28 +6,28 @@
 
 ## General info
 
-Templates
-Web Forms
-Database
-User Logins
-Profile Page and Avatars
-Error Handling
-Followers
-Pagination
-Email Support
-Facelift
-Dates and Times
-I18n and L10n
-Ajax
-A Better Application Structure
-Full-Text Search
-Deployment on Linux
-Deployment on Heroku
-Deployment on Docker Containers
-Some JavaScript Magic
-User Notifications
-Background Jobs
-Application Programming Interfaces (APIs)
+- Templates
+- Web Forms
+- Database
+- User Logins
+- Profile Page and Avatars
+- Error Handling
+- Followers
+- Pagination
+- Email Support
+- Facelift
+- Dates and Times
+- I18n and L10n
+- Ajax
+- A Better Application Structure
+- Full-Text Search
+- Deployment on Linux
+- Deployment on Heroku
+- Deployment on Docker Containers
+- Some JavaScript Magic
+- User Notifications
+- Background Jobs
+- Application Programming Interfaces (APIs)
 
 ## Technologies
 
