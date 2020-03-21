@@ -1,8 +1,8 @@
 ## Table of contents
 
-- [General info](#blog)
-- [Technologies](#python, flask and javaScript)
-- [Setup](#https://senay-blog-flask.herokuapp.com/)
+- [General info](blog)
+- [Technologies](python, flask and javaScript)
+- [Setup](https://senay-blog-flask.herokuapp.com/)
 - [Website]()
 
 ## General info
