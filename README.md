@@ -25,14 +25,9 @@ Include logo/demo screenshot etc.
 
 ## Tech/framework used
 
-Ex. -
+## WEBSITE
 
-<b>Built with</b>
-
-- [Electron](https://electron.atom.io)
-
-## Features
-
+https://senay-blog-flask.herokuapp.com/
 What makes your project stand out?
 
 ## Code Example
@@ -77,12 +72,6 @@ Describe and show how to run the tests with code examples.
 If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
 
 ## Contribute
-
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
-## Credits
-
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project.
 
 #### Anything else that seems useful
 
