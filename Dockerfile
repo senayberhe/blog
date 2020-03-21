@@ -1,7 +1,5 @@
 FROM python:3.7-slim
 
-RUN adduser -D blog
-
 WORKDIR /home/blog
 
 COPY requirements.txt requirements.txt
