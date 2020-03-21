@@ -1,13 +1,33 @@
 ## Table of contents
 
-- [General info](blog)
+- [General info](web applications with Python and the Flask framework.)
 - [Technologies](python, flask and javaScript)
-- [Setup](https://senay-blog-flask.herokuapp.com/)
-- [Website]()
+- (https://senay-blog-flask.herokuapp.com/)
 
 ## General info
 
-This project is simple Lorem ipsum dolor generator.
+Templates
+Web Forms
+Database
+User Logins
+Profile Page and Avatars
+Error Handling
+Followers
+Pagination
+Email Support
+Facelift
+Dates and Times
+I18n and L10n
+Ajax
+A Better Application Structure
+Full-Text Search
+Deployment on Linux
+Deployment on Heroku
+Deployment on Docker Containers
+Some JavaScript Magic
+User Notifications
+Background Jobs
+Application Programming Interfaces (APIs)
 
 ## Technologies
 
